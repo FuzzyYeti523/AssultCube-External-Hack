@@ -1,6 +1,6 @@
-[submodule "lib/external"]
-	path = lib/external
+[submodule "lib/Utility"]
+	path = lib/Utility
 	url = https://github.com/FuzzyYeti523/External-Hack-Utility
-[submodule "build/lib/spdlog"]
-	path = build/lib/spdlog
+[submodule "lib/spdlog"]
+	path = lib/spdlog
 	url = https://github.com/gabime/spdlog
