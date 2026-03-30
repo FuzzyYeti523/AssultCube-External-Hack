@@ -1,4 +1,3 @@
-# AssultCube-External-Hack
 # AssaultCube External Hack
 
 External hack project for AssaultCube built in C++ using WinAPI.
