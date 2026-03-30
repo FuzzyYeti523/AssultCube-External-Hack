@@ -17,7 +17,7 @@ file(GLOB EXTERNAL_SRC
 target_include_directories(ExternalHack
     PRIVATE
     ${CMAKE_SOURCE_DIR}/lib/Utility/external/include
-     ${CMAKE_SOURCE_DIR}/lib/spdlog/include
+    ${CMAKE_SOURCE_DIR}/lib/spdlog/include
 )
 
 target_sources(ExternalHack
