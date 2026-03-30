@@ -55,3 +55,8 @@
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode
+build/.cmake/api/v1/reply/
+
+build/.cmake/api/v1/query/client-vscode/
+
+build/
