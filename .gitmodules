@@ -3,4 +3,4 @@
 	url = https://github.com/FuzzyYeti523/External-Hack-Utility
 [submodule "lib/spdlog"]
 	path = lib/spdlog
-	url = https://github.com/gabime/spdlog
+	url = https://github.com/FuzzyYeti523/Hack-Utility
